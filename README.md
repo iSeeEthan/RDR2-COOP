@@ -6,7 +6,7 @@
 ---
 
 <details>
-<summary><strong>Expand Features Checklist</strong></summary>
+<summary><strong>Checklist</strong></summary>
 
 - [x] **Feature 1**: Basic Sync and Client
 - [x] **Feature 2**: Basic Python Server
